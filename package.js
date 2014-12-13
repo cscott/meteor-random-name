@@ -16,5 +16,5 @@ Package.onUse(function(api) {
 
 Package.onTest(function(api) {
   api.use(['tinytest','underscore','cscottnet:random-name']);
-  api.addFiles('random-name-tests.js', 'server');
+  api.addFiles('random-name-tests.js');
 });
