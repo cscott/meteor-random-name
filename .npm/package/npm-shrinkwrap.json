@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "node-random-name": {
+      "version": "1.0.1",
+      "dependencies": {
+        "alea": {
+          "version": "0.0.9"
+        }
+      }
+    }
+  }
+}
